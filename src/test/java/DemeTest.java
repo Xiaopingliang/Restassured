@@ -26,4 +26,9 @@ public class DemeTest {
     public void fun4() {
         System.out.println("DemeTest ………………fun4");
     }
+
+    @Test
+    public void fun5() {
+        System.out.println("DemeTest ………………fun5");
+    }
 }
