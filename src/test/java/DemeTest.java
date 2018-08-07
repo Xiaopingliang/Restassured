@@ -38,4 +38,10 @@ public class DemeTest {
     public void fun6() {
         System.out.println("DemeTest ………………fun6");
     }
+
+
+    @Test
+    public void fun7() {
+        System.out.println("DemeTest ………………fun7");
+    }
 }
