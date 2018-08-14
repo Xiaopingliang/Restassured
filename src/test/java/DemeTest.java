@@ -42,6 +42,6 @@ public class DemeTest {
 
     @Test
     public void fun7() {
-        System.out.println("DemeTest ………………fun7");
+        System.out.println("DemeTest ………………fun7mvn");
     }
 }
